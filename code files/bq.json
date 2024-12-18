@@ -1,0 +1,55 @@
+{
+    "BigQuery Schema": [{
+      "name": "Year",
+      "type": "DATE"
+     },
+	 {
+      "name": "Total_IT_Job_Openings",
+      "type": "INTEGER"
+     },
+	 {
+      "name": "Web_Related_Jobs",
+      "type": "INTEGER"
+     },
+	 {
+      "name": "Software_Development_Jobs",
+      "type": "INTEGER"
+     },
+	 {
+      "name": "IT_Support_Jobs",
+      "type": "INTEGER"
+     },
+	 {
+      "name": "IT_Management_Jobs",
+      "type": "INTEGER"
+     },
+	 {
+      "name": "IT_Security_Jobs",
+      "type": "INTEGER"
+     },
+	 {
+      "name": "Hardware_Engineering_Jobs",
+      "type": "INTEGER"
+     },
+	 {
+      "name": "Impacting_Event",
+      "type": "STRING"
+     },
+     {
+      "name": "Job_Loss_Percentage_Due_to_Event",
+      "type": "STRING"
+     },
+     {
+      "name": "New_Emerging_IT_Roles",
+      "type": "STRING"
+     },
+     {
+      "name": "prim",
+      "type": "INTEGER"
+     },
+     {
+      "name": "Total_IT_Job_Openings_Mean",
+      "type": "FLOAT"
+     }
+    ]
+   }
