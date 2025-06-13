@@ -24,7 +24,7 @@ I have selected Cloud Storage Bucket, Cloud Composer, Cloud Spanner, DataFlow, B
 ## Screenshots of my service in action
 
 This is a screenshot of itjobs_1212 bucket with the csv file itjobs.csv which is ready to be loaded into the cloud spanner table.
-![1](https://github.com/priya-darshini0/Google-Cloud-Data-Pipeline/blob/main/Images/1.png){width = 15 height = 10}
+![1](https://github.com/priya-darshini0/Google-Cloud-Data-Pipeline/blob/main/Images/1.png) {width:100px; height:50px}
 
 As you can see the table ittable12 present in cloud spanner is empty and ready to be loaded.
 ![2](https://github.com/priya-darshini0/Google-Cloud-Data-Pipeline/blob/main/Images/2.png)
